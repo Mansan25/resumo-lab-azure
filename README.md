@@ -7,4 +7,5 @@ Nesse primeiro Lab foi apresentado o ambiente da Azure e as principais campos do
 
 ## Lab 2 🕔
 O Lab abordou a disponibilidade dos serviços na nuvem com base no Acordo de Nível de Serviço (SLA). O Azure tem por acordo uma porcentagem entre 99% à 99,999% de disponibilidade, sendo que havendo disponibilidade inferior a porcentagem acordada, o cliente será ressarcido o proporcional fechado em contrato.
-Nota: A garantia de disponibilidade de um serviço é determinada pelas configurações e estratégias adotadas no uso do serviço.
+
+*Nota: A garantia de disponibilidade de um serviço é determinada pelas configurações e estratégias adotadas no uso do serviço.
